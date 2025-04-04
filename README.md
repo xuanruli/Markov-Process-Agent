@@ -44,8 +44,6 @@ The implementation provides solutions for analyzing how discount, noise, and liv
 
 *Policy Analysis: Example of walking far but choose near end position*
 
-## Visualization
-
 ## Running the Code
 
 ```
