@@ -3,7 +3,7 @@
 Implementation of various markov process agents for solving a world with reward and cliff
 
 ## Features
-Expectimax, Markov process
+Expectimax, Markov process, model based reinforcement learning, discount and reward factor
 
 ## Implemented Agents
 
