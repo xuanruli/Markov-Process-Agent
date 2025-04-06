@@ -1,6 +1,6 @@
 # Markov Process Agents Implementation
 
-Implementation of various markov process agents for solving a world with reward and cliff
+Implementation of various markov process agents for solving a world with model based reinforcement
 
 ## Features
 Expectimax, Markov process, model based reinforcement learning, discount and reward factor
